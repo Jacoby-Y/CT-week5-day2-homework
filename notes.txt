@@ -1,0 +1,6 @@
+customers, tickets, concessions, movies at minimum but you can have more
+
+customer <-> ticket
+ticket <-> movie
+
+customer <-> concessions
